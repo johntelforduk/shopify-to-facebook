@@ -5,7 +5,7 @@ This command line program makes it easy to convert [Shopify Customer Lists](http
 
 In Shopify, begin by selecting the **Customers** option in the Shopify menu, 
 
-![Screenshot](https://github.com/johntelforduk/shopify-to-facebook/blob/master/screenshots/Shopify_menu.jpg)
+![Screenshot](https://github.com/johntelforduk/shopify-to-facebook/blob/master/screenshots/Shopify_menu.JPG)
 
 #### Disclaimers
 All example data files in this project contain fictitious data.
