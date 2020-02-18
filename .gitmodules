@@ -1,0 +1,3 @@
+[submodule "International-Dialing-Codes"]
+	path = International-Dialing-Codes
+	url = https://github.com/siliconchild/International-Dialing-Codes.git

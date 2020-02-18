@@ -7,6 +7,7 @@ import csv
 # import os
 
 # Output Facebook Custom Audience List header row.
+# TODO Try changing the order of the columns.
 print('email,phone,fn,ln,zip,ct,st,country,value')
 
 
