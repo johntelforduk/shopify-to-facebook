@@ -4,7 +4,6 @@
 
 import sys
 import csv
-# import os
 
 # Output Facebook Custom Audience List header row.
 # TODO Try changing the order of the columns.
