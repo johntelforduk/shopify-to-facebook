@@ -21,10 +21,12 @@ class TestPhoneCode(unittest.TestCase):
                  ('07321 432556', 'NO_SUCH_COUNTRY', '07321 432556'),
                  ('+44 7321 452556', 'GB', '+44 7321 452556'),
                  ('0044 7321 452556', 'GB', '+44 7321 452556'),
-                 ('1-234-567-8910', 'US', '1-234-567-8910'),
-                 ('1-234-567-8910', 'AS', '1-234-567-8910'),            # American Samoa also has IDD code 1.
-                 ('614016289999', 'AU', '614016289999'),
-                 ('447321452556', 'GB', '447321452556')]
+                 ('1-234-567-8910', 'US', '+1-234-567-8910'),
+                 ('1-234-567-8910', 'AS', '+1-234-567-8910'),            # American Samoa also has IDD code 1.
+                 ('614016289999', 'AU', '+614016289999'),
+                 ('447321452556', 'GB', '+447321452556'),
+                 ('04214 443234', 'GB', '+44 4214 443234'),
+                 ("'+44 7213 445533", 'GB', '+44 7213 445533')]         # Remove apostrophes.
 
         for (test_phone_no, country, expected_result) in tests:
             self.assertEqual(expected_result, pc.enrich_phone_no(test_phone_no, country=country))

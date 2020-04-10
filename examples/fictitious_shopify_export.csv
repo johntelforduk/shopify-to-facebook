@@ -1,7 +1,8 @@
 First Name,Last Name,Email,Company,Address1,Address2,City,Province,Province Code,Country,Country Code,Zip,Phone,Accepts Marketing,Total Spent,Total Orders,Tags,Note,Tax Exempt
-Sarah,Black,sarahblack@nowhere.com,,"Smith Towers, 1 Smith Square",,London,,,United Kingdom,GB,SM1 3WQ,,yes,45,1,,,no
+Sarah,Black,sarahblack@nowhere.com,,"Smith Towers, 1 Smith Square",,London,,,United Kingdom,GB,SM1 3WQ,+44 1234 56789,yes,45,1,,,no
 ,,tonywhite@madeup.com,,,,,,,,,,,yes,0,0,,,no
-Michael,White,mjones@nonsuch.co.es,,Carrer De Englais 101,Banna 3b,Sant Couger Del Englias,Barcelona,B,Spain,ES,9123,,yes,0,0,,,no
-Krishna,Brown,rbrown@nomail.com,,231 North Bridge Avenue,,Los Angeles,California,CA,United States,US,90210,,yes,234,2,,,no
-Jemima,Green,jemi_green@nothing.com.au,,17 Arcacia Avenus,,Woolamaloo,New South Wales,NSW,Australia,AU,2312,,yes,90,1,,,no
+Michael,White,mjones@nonsuch.co.es,,Carrer De Englais 101,Banna 3b,Sant Couger Del Englias,Barcelona,B,Spain,ES,9123,0034 2233445566,yes,0,0,,,no
+Krishna,Brown,rbrown@nomail.com,,231 North Bridge Avenue,,Los Angeles,California,CA,United States,US,90210,1-234-567-8910,yes,234,2,,,no
+Jemima,Green,jemi_green@nothing.com.au,,17 Arcacia Avenus,,Woolamaloo,New South Wales,NSW,Australia,AU,2312,614016289999,yes,90,1,,,no
 Sara,Purple,SPurple@somewhere.co.uk,,173 Tree Road,,Cobham,,,United Kingdom,GB,SW1P 2TX,04214 443234,yes,29.99,1,,,no
+John,Orange,orange1@noaddress.com,,10 Banker Road,"",Sutton,,,United Kingdom,GB,SM1 1TY,'+44 7213 445533,yes,91.35,9,,,no
